@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/pwa/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/" : "/",
   outputDir: "pwa",
   pwa: {
     name: "Bronzen wie Tiere",
