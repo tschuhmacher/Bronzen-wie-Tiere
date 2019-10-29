@@ -6,6 +6,7 @@
       <div class="home__more">
         <router-link to="/exhibition">{{content.more}}</router-link>
       </div>
+      <h2>{{content.titleList}}</h2>
     </header>
     <ModelList withImage/>
     <Footer :content="content"/>
