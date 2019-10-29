@@ -1,8 +1,8 @@
 <template>
   <div class="content__page">
     <div class="content__page-main custom-layout">
-      <h1>{{content.menu.about}}</h1>
-      <div v-html="content.about.content"/>
+      <h1>{{content.menu.coop}}</h1>
+      <div v-html="content.coop.content"/>
     </div>
     <Footer :content="content"/>
   </div>
@@ -13,7 +13,7 @@
 import Footer from "@/components/Footer.vue";
 
 export default {
-  name: "about",
+  name: "coop",
   props: {
     content: Object
   },

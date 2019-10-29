@@ -1,6 +1,7 @@
 import Vue from "vue";
 import Router from "vue-router";
 import About from "./views/About.vue";
+import Coop from "./views/Coop.vue";
 import Exhibition from "./views/Exhibition.vue";
 import Impressum from "./views/Impressum.vue";
 import Home from "./views/Home.vue";
@@ -40,6 +41,11 @@ export default new Router({
       path: "/about",
       name: "about",
       component: About
+    },
+    {
+      path: "/coop",
+      name: "coop",
+      component: Coop
     },
     {
       path: "/exhibition",

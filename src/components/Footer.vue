@@ -3,6 +3,8 @@
     <div class="footer__menu">
       <router-link to="/model">{{content.menu.objects}}</router-link>
       <router-link to="/exhibition">{{content.menu.exhibition}}</router-link>
+      <router-link class="footer__impressum" to="/about">{{content.menu.about}}</router-link>
+      <router-link class="footer__impressum"to="/coop">{{content.menu.coop}}</router-link>
       <router-link class="footer__impressum" to="/impressum">{{content.menu.impressum}}</router-link>
     </div>
     <div class="divider"/>
