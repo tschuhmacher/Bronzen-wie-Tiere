@@ -2,19 +2,59 @@
   [
     {
       "id": 0,
-      "title": "Eule 00",
+      "title": "Heide Dobberkau: Horses",
       "scene": "/models/191022_eule00.glb",
-      "coverImage": "/img/vase.png",
+      "coverImage": "img/pferde.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
-              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "point": "Signatur",
+              "title": "[EN!] HD, Biographisches",
+              "firstContent": "Mayan, Guatemala, ..",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "FeineLinien",
+              "title": "[EN!] HD, Zeichnung",
+              "firstContent": "HD, von der Zeichnung zur Grafik",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "ZwischenPferdekoerper",
+              "title": "[EN!] Pferde-Medaillen",
+              "firstContent": "Bilder, Bildunterschr.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Pferdefuss",
+              "title": "[EN!] Vorbilder",
+              "firstContent": "erste Inhalte",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Rand",
+              "title": "[EN!] Relief",
+              "firstContent": "erste Inhalte",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Pferdekopf",
+              "title": "[EN!] Pferd, Kunst",
+              "firstContent": "erster Inhalte..",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -24,19 +64,59 @@
     },
     {
       "id": 1,
-      "title": "Eule 01",
+      "title": "Heide Dobberkau: Owl",
       "scene": "/models/191022_eule01.glb",
-      "coverImage": "/img/vase.png",
+      "coverImage": "/img/eule.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
-              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "point": "LinkesFeld",
+              "title": "[EN!] Medaille",
+              "firstContent": "O-Töne, Definition",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Signatur",
+              "title": "[EN!] Signatur",
+              "firstContent": "Geschichte, Gegenwart",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "EuleKoerper",
+              "title": "[EN!] Kauz",
+              "firstContent": "Thema Athena",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "EuleGesicht",
+              "title": "[EN!] Eigensinniges Tier",
+              "firstContent": "Eingeschriebenheit in die Gegenwart",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Drahtseil",
+              "title": "[EN!] Tier und Mensch",
+              "firstContent": "Verantwortung und Gegenwart",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Rückseite",
+              "title": "[EN!] Zur Herstellung",
+              "firstContent": "erste Inhalte....",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -46,19 +126,43 @@
     },
     {
       "id": 2,
-      "title": "Eule 02",
-      "scene": "/models/191022_eule02.glb",
-      "coverImage": "/img/vase.png",
+      "title": "Heide Dobberkau: Crayfish",
+      "scene": "/models/191025_aegina00.glb",
+      "coverImage": "/img/krebs.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
+              "point": "Rand",
+              "title": "[EN!] Plastik",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Unterseite",
+              "title": "[EN!] Graphik",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Auge",
+              "title": "[EN!] Blick ins Innere",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Schere",
+              "title": "[EN!] Offene Fragen",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -68,19 +172,67 @@
     },
     {
       "id": 3,
-      "title": "Eule 03",
+      "title": "Akragas: Tetradrachme",
       "scene": "/models/191022_eule03.glb",
-      "coverImage": "/img/vase.png",
+      "coverImage": "/img/akragas.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
+              "point": "Rand",
+              "title": "[EN!] Münze und Funktion",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "FeldUnten",
+              "title": "[EN!] Numismatik",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Grat",
+              "title": "[EN!] Material, Wert",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Aufschrift",
+              "title": "[EN!] Signatur Antike",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Krabbe",
+              "title": "[EN!] Tier als Chiffre",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Feder",
+              "title": "[EN!] Realismus Adlerdebatte",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Adler",
+              "title": "[EN!] Tier als Chiffre",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -90,19 +242,129 @@
     },
     {
       "id": 4,
-      "title": "Eule 04",
-      "scene": "/models/191022_eule04.glb",
-      "coverImage": "/img/vase.png",
+      "title": "Aigina: Stater",
+      "scene": "/models/191021_schildkroete_01.glb",
+      "coverImage": "/img/aigina.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
+              "point": "Schildkrötenkopf",
+              "title": "[EN!] Sprichwörtliches Geld",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Schildkrötenpanzer",
+              "title": "[EN!] Relief, Technik",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Rand",
+              "title": "[EN!] Nachteil, Wettbewerb",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Inkusum01",
+              "title": "[EN!] Vor der zweiten Bildseite (Tradition)",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Schildkrötenbein",
+              "title": "[EN!] Wasser vs. Land",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Panzerrand",
+              "title": "[EN!] Schildkröte Mythos Adler",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Inkusum02",
+              "title": "[EN!] Geburt der Münze",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Heide Dobberkau: Turtle",
+      "scene": "/models/191021_schildkroete_01.glb",
+      "coverImage": "/img/schildkroete.png",
+      "location": "Münzkabinett",
+      "infoPoints": [
+        {
+          "groupName": "All",
+          "groupContent": [
+            {
+              "point": "Loch",
+              "title": "[EN!] Plastik eränzende Infos",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Kopf",
+              "title": "[EN!] HD Biographisch",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "UebergangaBeinPanzerVorn",
+              "title": "[EN!] Tierwesen von HD",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Hinterteil",
+              "title": "[EN!] Aufgabe Ausstellungsbesuch",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "FussHinten",
+              "title": "[EN!] Überleitung Ausstellung",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "UebergangHalsPanzer",
+              "title": "[EN!] Reserve",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -114,19 +376,59 @@
   [
     {
       "id": 0,
-      "title": "Owl 00",
+      "title": "Heide Dobberkau: Pferde",
       "scene": "/models/191022_eule00.glb",
-      "coverImage": "/img/vase.png",
+      "coverImage": "img/pferde.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
-              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "point": "Signatur",
+              "title": "HD, Biographisches",
+              "firstContent": "Mayan, Guatemala, ..",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "FeineLinien",
+              "title": "HD, Zeichnung",
+              "firstContent": "HD, von der Zeichnung zur Grafik",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "ZwischenPferdekoerper",
+              "title": "Pferde-Medaillen",
+              "firstContent": "Bilder, Bildunterschr.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Pferdefuss",
+              "title": "Vorbilder",
+              "firstContent": "erste Inhalte",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Rand",
+              "title": "Relief",
+              "firstContent": "erste Inhalte",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Pferdekopf",
+              "title": "Pferd, Kunst",
+              "firstContent": "erster Inhalte..",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -136,19 +438,59 @@
     },
     {
       "id": 1,
-      "title": "Owl 01",
+      "title": "Heide Dobberkau: Eule",
       "scene": "/models/191022_eule01.glb",
-      "coverImage": "/img/vase.png",
+      "coverImage": "/img/eule.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
-              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "point": "LinkesFeld",
+              "title": "Medaille",
+              "firstContent": "O-Töne, Definition",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Signatur",
+              "title": "Signatur",
+              "firstContent": "Geschichte, Gegenwart",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "EuleKoerper",
+              "title": "Kauz",
+              "firstContent": "Thema Athena",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "EuleGesicht",
+              "title": "Eigensinniges Tier",
+              "firstContent": "Eingeschriebenheit in die Gegenwart",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Drahtseil",
+              "title": "Tier und Mensch",
+              "firstContent": "Verantwortung und Gegenwart",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Rückseite",
+              "title": "Zur Herstellung",
+              "firstContent": "erste Inhalte....",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -158,19 +500,43 @@
     },
     {
       "id": 2,
-      "title": "Owl 02",
-      "scene": "/models/191022_eule02.glb",
-      "coverImage": "/img/vase.png",
+      "title": "Heide Dobberkau: Krebs",
+      "scene": "/models/191025_aegina00.glb",
+      "coverImage": "/img/krebs.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
+              "point": "Rand",
+              "title": "Plastik",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Unterseite",
+              "title": "Graphik",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Auge",
+              "title": "Blick ins Innere",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Schere",
+              "title": "Offene Fragen",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -180,19 +546,67 @@
     },
     {
       "id": 3,
-      "title": "Owl 03",
+      "title": "Akragas: Tetradrachme",
       "scene": "/models/191022_eule03.glb",
-      "coverImage": "/img/vase.png",
+      "coverImage": "/img/akragas.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
+              "point": "Rand",
+              "title": "Münze und Funktion",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "FeldUnten",
+              "title": "Numismatik",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Grat",
+              "title": "Material, Wert",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Aufschrift",
+              "title": "Signatur Antike",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Krabbe",
+              "title": "Tier als Chiffre",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Feder",
+              "title": "Realismus Adlerdebatte",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Adler",
+              "title": "Tier als Chiffre",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -202,19 +616,129 @@
     },
     {
       "id": 4,
-      "title": "Owl 04",
-      "scene": "/models/191022_eule04.glb",
-      "coverImage": "/img/vase.png",
+      "title": "Aigina: Stater",
+      "scene": "/models/191021_schildkroete_01.glb",
+      "coverImage": "/img/aigina.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
-          "groupName": "Data",
+          "groupName": "All",
           "groupContent": [
             {
-              "point": "SpriteF1",
-              "title": "War Vase",
+              "point": "Schildkrötenkopf",
+              "title": "Sprichwörtliches Geld",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "/img/vase_grunddaten.jpg",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Schildkrötenpanzer",
+              "title": "Relief, Technik",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Rand",
+              "title": "Nachteil, Wettbewerb",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Inkusum01",
+              "title": "Vor der zweiten Bildseite (Tradition)",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Schildkrötenbein",
+              "title": "Wasser vs. Land",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Panzerrand",
+              "title": "Schildkröte Mythos Adler",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Inkusum02",
+              "title": "Geburt der Münze",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Heide Dobberkau: Schildkröte",
+      "scene": "/models/191021_schildkroete_01.glb",
+      "coverImage": "/img/schildkroete.png",
+      "location": "Münzkabinett",
+      "infoPoints": [
+        {
+          "groupName": "All",
+          "groupContent": [
+            {
+              "point": "Loch",
+              "title": "Plastik eränzende Infos",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Kopf",
+              "title": "HD Biographisch",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "UebergangaBeinPanzerVorn",
+              "title": "Tierwesen von HD",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "Hinterteil",
+              "title": "Aufgabe Ausstellungsbesuch",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "FussHinten",
+              "title": "Überleitung Ausstellung",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            },
+            {
+              "point": "UebergangHalsPanzer",
+              "title": "Reserve",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
