@@ -27,14 +27,14 @@
             </section>
 
             <div v-if="isExpanded" class="content-expanded">
-              <p>{{ slide.firstContent }}</p>
+              <p v-html="slide.firstContent"></p>
               <v-img
                 :src="slide.image"
                 aspect-ratio="1.3"
                 class="grey lighten-2 card__image"
               />
-              <p>{{ slide.imageSubtitle }}</p>
-              <p>{{ slide.secondContent }}</p>
+              <p v-html="slide.imageSubtitle"></p>
+              <p v-html="slide.secondContent"></p>
             </div>
 
             <div v-if="!isExpanded">
@@ -42,9 +42,9 @@
                 {{ truncate(slide.firstContent) }}
                 <a
                   class="blue--text darken-1 expander"
-                  @click="toggleExpand()"
-                  >{{ content.expand }}</a
-                >
+                  @click="toggleExpand()">
+                    {{ content.expand }}
+                </a>
               </p>
             </div>
           </div>
