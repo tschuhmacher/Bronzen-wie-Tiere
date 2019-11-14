@@ -339,7 +339,7 @@ export default {
         if (child.type == "Object3D" && child.children.length == 0) {
           var spriteMaterial = new SpriteMaterial({
             map: this.spriteTexture,
-            color: 0xffffff
+            color: 0x016f61
           });
           const sprite = new Sprite(spriteMaterial);
           const { x, y, z } = child.position;
@@ -498,7 +498,7 @@ export default {
       const maxPoint = Math.max(box.max.x, box.max.y, box.max.z);
 
       this.minZoomDefault = maxPoint + 5;
-      this.maxZoomDefault = distance + 25;
+      this.maxZoomDefault = distance + 45;
 
       if (this.controls) {
         this.controls.minDistance = this.minZoom
