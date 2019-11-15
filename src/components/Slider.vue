@@ -40,10 +40,8 @@
             <div v-if="!isExpanded">
               <p>
                 {{ truncate(slide.firstContent) }}
-                <a
-                  class="blue--text darken-1 expander"
-                  @click="toggleExpand()">
-                    {{ content.expand }}
+                <a class="blue--text darken-1 expander" @click="toggleExpand()">
+                  {{ content.expand }}
                 </a>
               </p>
             </div>
