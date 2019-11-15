@@ -3,7 +3,7 @@
     {
       "id": 0,
       "title": "Heide Dobberkau: Horses",
-      "scene": "/models/191113_pferderelief.glb",
+      "scene": "../models/191113_pferderelief.glb",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -14,7 +14,7 @@
               "point": "SignaturPferde",
               "title": "[EN!] HD, Biographisches",
               "firstContent": "Mayan, Guatemala, ..",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/I-1_Esel.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -22,7 +22,7 @@
               "point": "FeineLinien",
               "title": "[EN!] HD, Zeichnung",
               "firstContent": "HD, von der Zeichnung zur Grafik",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -30,7 +30,7 @@
               "point": "ZwischenPferdekoerper",
               "title": "[EN!] Pferde-Medaillen",
               "firstContent": "Bilder, Bildunterschr.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -38,7 +38,7 @@
               "point": "Pferdefuss",
               "title": "[EN!] Vorbilder",
               "firstContent": "erste Inhalte",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -46,7 +46,7 @@
               "point": "RandPferde",
               "title": "[EN!] Relief",
               "firstContent": "erste Inhalte",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -54,7 +54,7 @@
               "point": "Pferdekopf",
               "title": "[EN!] Pferd, Kunst",
               "firstContent": "erster Inhalte..",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -76,7 +76,7 @@
               "point": "LinkesFeld",
               "title": "[EN!] Medaille",
               "firstContent": "O-Töne, Definition",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -84,7 +84,7 @@
               "point": "SignaturEule",
               "title": "[EN!] Signatur",
               "firstContent": "Geschichte, Gegenwart",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -92,7 +92,7 @@
               "point": "EuleKoerper",
               "title": "[EN!] Kauz",
               "firstContent": "Thema Athena",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -100,7 +100,7 @@
               "point": "EuleGesicht",
               "title": "[EN!] Eigensinniges Tier",
               "firstContent": "Eingeschriebenheit in die Gegenwart",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -108,7 +108,7 @@
               "point": "Drahtseil",
               "title": "[EN!] Tier und Mensch",
               "firstContent": "Verantwortung und Gegenwart",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -116,7 +116,7 @@
               "point": "RückseiteEule",
               "title": "[EN!] Zur Herstellung",
               "firstContent": "erste Inhalte....",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -138,7 +138,7 @@
               "point": "RandKrebs",
               "title": "[EN!] Plastik",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -146,7 +146,7 @@
               "point": "Unterseite",
               "title": "[EN!] Graphik",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -154,7 +154,7 @@
               "point": "Auge",
               "title": "[EN!] Blick ins Innere",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -162,7 +162,7 @@
               "point": "Schere",
               "title": "[EN!] Offene Fragen",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -184,7 +184,7 @@
               "point": "RandAkragas",
               "title": "[EN!] Münze und Funktion",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -192,7 +192,7 @@
               "point": "FeldUnten",
               "title": "[EN!] Numismatik",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -200,7 +200,7 @@
               "point": "Grat",
               "title": "[EN!] Material, Wert",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -208,7 +208,7 @@
               "point": "Aufschrift",
               "title": "[EN!] Signatur Antike",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -216,7 +216,7 @@
               "point": "Krabbe",
               "title": "[EN!] Tier als Chiffre",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -224,7 +224,7 @@
               "point": "Feder",
               "title": "[EN!] Realismus Adlerdebatte",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -232,7 +232,7 @@
               "point": "Adler",
               "title": "[EN!] Tier als Chiffre",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -254,7 +254,7 @@
               "point": "Schildkroetenkopf",
               "title": "[EN!] Sprichwörtliches Geld",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -262,7 +262,7 @@
               "point": "Schildkroetenpanzer",
               "title": "[EN!] Relief, Technik",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -270,7 +270,7 @@
               "point": "RandAigina",
               "title": "[EN!] Nachteil, Wettbewerb",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -278,7 +278,7 @@
               "point": "Inkusum01",
               "title": "[EN!] Vor der zweiten Bildseite (Tradition)",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -286,7 +286,7 @@
               "point": "Schildkroetenbein",
               "title": "[EN!] Wasser vs. Land",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -294,7 +294,7 @@
               "point": "Schildkroetenpanzerrand",
               "title": "[EN!] Schildkröte Mythos Adler",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -302,7 +302,7 @@
               "point": "Inkusum02",
               "title": "[EN!] Geburt der Münze",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -324,7 +324,7 @@
               "point": "Loch",
               "title": "[EN!] Plastik eränzende Infos",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -332,7 +332,7 @@
               "point": "Kopf",
               "title": "[EN!] HD Biographisch",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -340,7 +340,7 @@
               "point": "UebergangBeinPanzerVorn",
               "title": "[EN!] Tierwesen von HD",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -348,7 +348,7 @@
               "point": "Hinterteil",
               "title": "[EN!] Aufgabe Ausstellungsbesuch",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -356,7 +356,7 @@
               "point": "FussHinten",
               "title": "[EN!] Überleitung Ausstellung",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             },
@@ -364,7 +364,7 @@
               "point": "UebergangHalsPanzer",
               "title": "[EN!] Reserve",
               "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/placeholder800x600.jpg",
               "imageSubtitle": "",
               "secondContent": ""
             }
@@ -388,7 +388,7 @@
               "point": "SignaturPferde",
               "title": "Heide Dobberkau",
               "firstContent": "Die in Bergisch-Gladbach lebende und wirkende Bildhauerin und Medailleurin <a href=\"https://de.wikipedia.org/wiki/Heide_Dobberkau\" target=\"_blank\">Heide Dobberkau</a> (geb. 1929) hat seit den 1940er Jahren frühzeitig ihre Liebe zu Tiergestaltungen gefunden und in Jahrzehnten einen eigenen Stil entwickelt.",
-              "image": "img/SignaturPferde",
+              "image": "../img/I-1.jpg",
               "imageSubtitle": "Heide Dobberkau vor ihrer Skulptur ›Esel‹, 2018. ©Wolfgang Steguweit.",
               "secondContent": "In den Jahren ihrer Ausbildung, zunächst als Schülerin von Prof. Hermann Scheuernstuhl in Hannover und später von Prof. Edwin Scharff in Hamburg, wurde sie zu einer Akteurin im Kunstbetrieb der noch jungen Bundesrepublik. Ihren eigenen Stil entwickelte sie dabei mit einer Leichtigkeit, die sich in ihren Bronzen wie Tieren niederschlägt."
             },
@@ -396,7 +396,7 @@
               "point": "FeineLinien",
               "title": "Von der Grafik zum Relief",
               "firstContent": "Seit den 1970er Jahren fertigt Heide Dobberkau ihre Bronzen wie Tiere in der eigenen Werkstatt. Gussformen und Güsse entstehen dabei im Wachsauschmelzverfahren. Ihre Plastiken und Medaillen erscheinen durch die persönliche Arbeit vom Modell in Wachs oder Gips bis zur finalen Bronze und abschließender Patinierung wie ›aus einem Guss‹.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/I-2.jpg",
               "imageSubtitle": "Heide Dobberkau und Werner Niermann beim Bronzegießen, um 1972, Foto Besitz Dobberkau.",
               "secondContent": "Die Reliefs und Medaillen besitzen eine betonte Plastizität. Immer aber wird das grafische Element hervorgehoben und durch die Patinierung ein wirksames Spiel aus Licht und Farbe erzielt. Dies erklärt sich durch die verwendete Technik. Vom Negativschnitt in Gips ausgehend entsteht das eingegrabene Relief. Bisweilen greift die Künstlerin auch in den Medien Holzschnitt, Zeichnung und Medaille ähnliche Motive auf und macht sie so zu Ikonen ihres Werks."
             },
@@ -404,7 +404,7 @@
               "point": "ZwischenPferdekoerper",
               "title": "Pferdemedaillen",
               "firstContent": "Ihre Leidenschaft für Pferde ließ der Reitlehrerin Heide Dobberkau Spielraum zum Arbeiten und bereichert zugleich die Gestaltung. Immer wieder prägen Pferdemotive das Werk von Heide Dobberkau. Von ihren frühesten bis zu ihren neuesten Arbeiten sind es liegende, grasende, galoppierende, oder sich begegnende Pferde, die in den Medien Medaille, Grafik, Relief und Plastik umgesetzt wurden.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/I-3.jpg",
               "imageSubtitle": "Heide Dobberkau: (Pferde) Herdentrieb, 1974, Kat. M 11, IKMK <a href=\"https://ikmk.smb.museum/object?id=18211665\" target=\"_blank\">18211665</a>, Foto Lutz-Jürgen Lübke (Lübke und Wiedemann)",
               "secondContent": "Im Begleitband mit Katalog zur Sonderausstellung sind neben vielen weiteren Werken sechs Pferdemedaillen, zwölf Kleinplastiken, drei Reliefs und zwölf Grafiken mit Pferdemotiven zusammengestellt. Dieser Band erschließt erstmals umfassend das tierbildnerische Werk Heide Dobberkaus:<br><br>W. Steguweit – J. Eberhardt, <em>Heide Dobberkau. Bildhauerin und Medailleurin,</em> Das Kabinett 18, hrsg. von B. Weisser (Berlin 2019).<br>Battenberg Gietl Verlag GmbH Regenstauf, <br>ISBN 978-3-86646-189-5, EUR 19,90."
             },
@@ -412,7 +412,7 @@
               "point": "Pferdefuss",
               "title": "Vorbilder",
               "firstContent": "Heide Dobberkau kam nicht primär durch das Studium von Schlüsselwerken aus der Kunstgeschichte zu ihrer Leidenschaft für Tierskulpturen, -grafiken und -medaillen. Ihre Liebe gehört den Tierwesen selbst. Gerade durch persönliche Begegnung und Beobachtung fand sie zu den Motiven ihrer Kunst.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/I-4.jpg",
               "imageSubtitle": "Heide Dobberkau als Reitlehrerin, um 1955, Foto Besitz Dobberkau.",
               "secondContent": "Als künstlerische Vorläufer ließen sich im Zeitraum von über 35.000 Jahren menschlicher Kunsterzeugnisse mit Tiermotiven zahllose Beispiele aufführen."
             },
@@ -420,7 +420,7 @@
               "point": "RandPferde",
               "title": "Relief",
               "firstContent": "Anhand dieses 3D-Modells lassen sich Charakteristika des Reliefs gut erkennen. Diese Werke sind einseitig gestaltet und zur Präsentation der Vorderseite gedacht. Die nicht bearbeitete und ebenfalls nicht patinierte Rückseite des Reliefs lässt nicht nur Rückschlüsse auf die Objektgeschichte zu.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/I-5.jpg",
               "imageSubtitle": "Heide Dobberkau: Pferdebegegnung, 1989, Bronze, Kat. R 6, Privatbesitz, Foto Bernhard Weisser.",
               "secondContent": "Vielmehr zeigt sich bei der Betrachtung der Rückseite, dass beim Guss im Wachsausschmelzverfahren darauf geachtet wurde, Material und Gewicht zu sparen. Das große Pferderelief hat zahlreiche ›Geschwister‹. Eines zeigt sich begegnende Pferde. Sozial interagierende Tiere machen gerade innerhalb des Medaillenschaffens von Heide Dobberkau einen besonderen Reiz aus."
             },
@@ -428,7 +428,7 @@
               "point": "Pferdekopf",
               "title": "Pferde in der Münz- und Medaillenkunst",
               "firstContent": "Miniaturskulpturen aus Mammutelfenbein wurden in der Vogelherdhöhle im Lonetal auf der Schwäbischen Alb entdeckt. Das Wildpferd, dessen Alter mit 35.000 Jahren beziffert wird, kann im Museum Alte Kulturen, Schloss Hohentübingen, im Original betrachtet werden. Münzen griffen Pferdedarstellungen bereits im siebten Jahrhundert v. Chr. als Motive auf. Das <a href=\"https://ikmk.smb.museum/object?id=18269617\" target=\"_blank\">Beispiel aus der griechischen Klassik</a> zeigt ein Pferd, welches springend und ohne vordergründigen funktionalen Bezug zum Menschen dargestellt wird. Als Wappen stehen Tiere auf Münzen noch immer im Spannungsfeld zwischen Symbol und Lebewesen.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/I-6.jpg",
               "imageSubtitle": "Gerhard Marcks: Reiter, 1970, Privatbesitz, Foto Wolfgang Steguweit.",
               "secondContent": "Der Reiter von Gerhard Marcks aus dem Jahr 1970 steht hier stellvertretend für zahlreiche Pferdedarstellungen im Medium der Medaille, wie sie seit der Renaissance weltweit in vielerlei Gestalt zu finden sind. Diese Materialgruppe noch viele weitere, eigene Ausstellungen wert."
             }
@@ -450,7 +450,7 @@
               "point": "LinkesFeld",
               "title": "Was ist Medaillenkunst?",
               "firstContent": "»Wie eine Sammellinse, die Strahlungsenergie in einem Brennpunkt vereinigt, können Medaillen Zeitgeschichte und Zeitgeist in konzentrierter Form künstlerisch widerspiegeln.« (Wolfgang Steguweit, 1995 zitiert nach Küter, Alexa – Weisser, Bernhard: Kunst prägt Geld – Muse Macht Moneten, Berlin 2016, S. 7)",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/II-1.jpg",
               "imageSubtitle": "Hilde Broer: Hilde-Broer-Preis der DGMK, 2005, IKMK <a href=\"https://ikmk.smb.museum/object?id=18209842\" target=\"_blank\">18209842</a>, Gestaltung der Rückseite von Carsten Theumer, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Seit die in der Folge der staatlichen Einheit im Jahre 1991 gegründete Deutsche Gesellschaft für Medaillenkunst im Jahr darauf den ersten Band ihrer mittlerweile auf 30 Titel angewachsenen Reihe zur ›Kunstmedaille in Deutschland‹ herausgab, erhielt diese kleine, konzentrierte Form des Bildhauerschaffens einen Raum, in dem auch Heide Dobberkau regelmäßig vertreten war »Um hier und heute nicht zu trocken oder fachspezifisch zu memorieren, fällt mir ein bekannter Songtext von Herbert Grönemeyer aus dem Jahre 1984 ein, den ich hier einfach umtexte: Wann ist eine Medaille eine Medaille? Die Antwort ist ebenso schwer wie leicht. ›Außen hart und innen ganz weich‹, heißt es im Liedtext an einer Stelle über die Gattung ›Mann‹ und kann doch nicht eindimensional die alles entscheidende Frage klären, wann ist eine Medaille Kunst? Und wie gelingt es uns, sie in den Olymp der Hohen Kunst zu hieven?« (Wolfgang Steguweit zitiert nach Weisser, Bernhard, Wolfgang Steguweit. Initiator – Macher – Mentor – Visionär, in: Geldgeschichtliche Nachrichten 49, 2014, 214–225 (incl. Schriftenverzeichnis), hier S. 217–218)"
             },
@@ -458,7 +458,7 @@
               "point": "Signatur",
               "title": "Die Signatur",
               "firstContent": "Zu den bekanntesten und oftmals als ›am schönsten‹ beschriebenen antiken Münzen zählen beispielsweise die silbernen <a href=\"https://ikmk.smb.museum/object?id=18261545\" target=\"_blank\">Dekadrachmen</a> und goldenen Doppeldekadrachmen aus Syrakus, die gegen Ende des 5. Jahrhunderts v. Chr. von signierenden Stempelschneidern geschaffen wurden. Nur selten treten Musik-, Keramik- oder wie hier Münzschaffende in der Antike aus der Anonymität heraus. Sie waren zunächst – wenn auch noch so geschickte und spezialisierte – Handwerker.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/II-2.jpg",
               "imageSubtitle": "Syrakus, ca. 406–380 v. Chr., Gold, 100 Litren, 5,78 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18200115\" target=\"_blank\">18200115</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Heide Dobberkaus Werke tragen hingegen meist eine Künstlersignatur. Diese besteht generell aus einem Monogramm der ligierten Buchstaben H und D."
             },
@@ -466,7 +466,7 @@
               "point": "EuleKoerper",
               "title": "Kauz vs. Eule",
               "firstContent": "Der Steinkauz – also ein ganz bestimmter Eulenvogel – auf den für Athen sprichwörtlichen Münzen ist das Tier der Göttin Athena, deren Kopf mit attischem Helm hier auf der Vorderseite zu sehen ist. Der Olivenzweig neben dem Greifvogel deutet ebenfalls auf die Spenderin dieser wertvollen Pflanze und damit auf die Zeustochter Athena. Wir haben bereits festgestellt, dass Heide Dobberkau gerade nicht antike Münzen als Vorbilder für ihr tierbildnerisches Werk heranzog.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/II-3.jpg",
               "imageSubtitle": "Athen, ca. 440–405 v. Chr., Silber, Tetradrachme, 17,10 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18215056\" target=\"_blank\">18215056</a>, Fotos Reinhard Saczewski.",
               "secondContent": "Betrachtet man das 3D-Modell der Eulenmedaille genauer, wird dies sofort klar. Der auf dieser Tiermedaille dargestellte Vogel sitzt auf einem Drahtseil, was ihn als Bewohner einer von Menschen beeinflussten Welt markiert. Viel gravierender ist aber, dass auf der Tiermedaille ein Vogel mit kleinen Federöhrchen dargestellt ist. Kein Steinkauz mit seinem runden Köpfchen also, sondern in der Tat eine Eule und nicht der Athena repräsentierende kleine Nachtjäger wird von Heide Dobberkau gezeigt."
             },
@@ -474,7 +474,7 @@
               "point": "EuleGesicht",
               "title": "Ein ›eigensinniges‹ Tier?",
               "firstContent": "Was liegt im Blick dieser Eule? Kritik, Scharfsinn, Neugier oder Eigensinn? Könnte es sein, dass die so schwachen Tiere hinter der Fassade ihrer Verletzlichkeit Widerstand zu leisten vermögen? Zeigt die Eule, dass sie nicht blind folgt, aber ebenso wenig offen feindselig auf dem Drahtseil Platz genommen hat? Während der Schwalbennachwuchs Tiere zeigt, die erdulden, sind die Eulenmedaillen Zeugnis selbstbewusster Tierwesen.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/II-4.jpg",
               "imageSubtitle": "Heide Dobberkau: Schwalbennachwuchs, 1980, Bronze, Kat. M 19, IKMK <a href=\"https://ikmk.smb.museum/object?id=18211679\" target=\"_blank\">18211679</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Haben Tiere ähnliche Emotionen wie wir Menschen? Fühlen Menschen oft wie Tiere? Diese Fragen beschäftigen uns nicht nur, wenn es um die Problematik der Tierhaltung oder Schlachtung geht. Das Verhältnis zwischen Tieren und Tierhaltern beruht nur zu oft auf Missverständnissen durch vorschnelle Vermenschlichung. Dennoch zeigen Tiere immer wieder Verhaltensmuster, die übersetzbar erscheinen."
             },
@@ -482,7 +482,7 @@
               "point": "Drahtseil",
               "title": "Tier und Mensch – Bedrohung und Hoffnung",
               "firstContent": "Welche Aussage wird durch das dargestellte Drahtseil gezeitigt? Sicher keine so weitreichend-drastische, wie sie Andreas A. Jähnig in seiner Medaille ›Ambivalenz‹ trifft. Hier begegnet das auf der Vorderseite noch liebevoll gestreichelte Kälbchen seinem Vorgänger, der (weniger mit Empathie bedacht) bereits am Fleischerhaken hängt.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/II-5.jpg",
               "imageSubtitle": "Andreas A. Jähnig: Ambivalenz, 2019, Gips, Privatbesitz, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Auch die Tierwesen von Heide Dobberkau können Mitleid erwecken, da sie als bedrohte Wesen gezeigt, oder ihnen wie den Eulen und Schwalben nur mehr Platz zum Sitzen auf einem menschengeschaffenen toten Material bleibt. Oder zeigen sie, dass die Verantwortung der Menschen für das Leben der Tiere auch konstruktiv sein kann? Die Hoffnung auf Harmonie zwischen Mensch, Tier und Natur ist eine mögliche Interpretation der Werke von Heide Dobberkau."
             },
@@ -490,7 +490,7 @@
               "point": "Rückseite",
               "title": "Die Medaille",
               "firstContent": "»Die Medaille ist von ihrem Ursprung her der Münze verwandt und ist ein Kleinrelief, das in eine zumeist runde Form eingeschrieben ist. Es gibt in der Neuzeit viele Varianten, aus diesem Rund herauszutreten, um Ovale, Rechtecke (Plaketten) oder andere verformte Grundﬂächen zum Reliefgrund zu machen. All diese Formen können der Medaille zugerechnet werden, solange diese Formen Reliefgrund sind. Eine Abgrenzung hinsichtlich der Objektgröße und des Umgangs ergibt sich aber hin zum Kleinrelief. Das Kleinrelief zum Beispiel in Form einer romanischen Elfenbeinschnitzerei ist eindeutig keine Medaille und wird deshalb auch nicht in Münzkabinetten gesammelt. Zum Wesen der Medaille gehören seine Handhabbarkeit und der gewollte Umgang in den Händen des Betrachters.« (Andreas A. Jähnig, zitiert nach Weisser, Bernhard, Deutscher Medailleurpreis 2014 für Andreas A. Jähnig (2014), in: J. Triebel – B. Weisser (Hrsg.), Deutscher Medailleurpreis 2014 (Suhl 2014) S. 4–22, hier S. 8).",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/II-6.jpg",
               "imageSubtitle": "Georges Dupré: Der Medailleur und die Medaillenkunst, um 1900, IKMK <a href=\"https://ikmk.smb.museum/object?id=18208125\" target=\"_blank\">18208125</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "»Eine weitere Abgrenzung zu anderen Genres leitet sich vom Namen Medaille selbst ab. Das Wort stammt vom italienischen medaglia und dem lateinischen metallum ab, was so viel wie Metall bedeutet. Dass Medaillen aus Metall sein sollten, war sicher auch ihrer ursprünglichen Funktion als Erinnerungsmedium und Bewahrer des Nachruhmes von Personen und Ereignissen geschuldet. Da sich diese Aufgabe heute gewandelt und erweitert hat, ist Metall sicher kein zwingendes Kriterium mehr, um Medaillen zu charakterisieren.« (Andreas A. Jähnig, zitiert nach Weisser, Bernhard, Deutscher Medailleurpreis 2014 für Andreas A. Jähnig (2014), in: J. Triebel – B. Weisser (Hrsg.), Deutscher Medailleurpreis 2014 (Suhl 2014) S. 4–22, hier S. 8)."
             }
@@ -512,7 +512,7 @@
               "point": "RandKrebs",
               "title": "Plastik",
               "firstContent": "Mutet der Aufbau eines Modells, aus dem später die Form gewonnen wird, bereits komplex an, so gilt dies umso mehr für die folgenden notwenigen Schritte. Bis eine Kleinplastik aus Bronze die hier vorliegende Qualität besitzt, erfordert es für die Umsetzung vom Entwurf bis zur Tierbronze Jahre an Erfahrung.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/III-1.jpg",
               "imageSubtitle": "Heide Dobberkau beim Aufbau einer Pferdeskulptur ›Rossführer‹, um 1960, Foto Besitz Dobberkau.",
               "secondContent": "Nach dem Modell folgen die Anfertigung der Formen, das Schmelzen der Bronze, das Gießen der Plastik, das Nachbearbeiten und schließlich das Patinieren. Innerhalb dieser einzelnen Etappen liegen zahlreiche weitere Schritte, die zwischen ersten Ideen und fertigen Bronzen wie Tieren stehen."
             },
@@ -520,7 +520,7 @@
               "point": "Unterseite",
               "title": "Graphik und Plastik",
               "firstContent": "Für die Krabbe kann eine Parallele im Werk von Heide Dobberkau aufgefunden werden, die einmal mehr die enge Verbindung zwischen Holzschnitt und Medaille aufzeigt.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/III-2.jpg",
               "imageSubtitle": "Heide Dobberkau: Krebs, 1969, Abzug 2/20, Kat. H 9, Privatbesitz, Foto Johannes Eberhardt.",
               "secondContent": "Im Gegensatz zum Holzschnitt hat die Bronzeplastik gar keine Beine. Repräsentiert die Krabbe des 3D-Modells eine leblose Hülle, die am Strand gefunden wurde? Ist der Holzschnitt ihre Vergangenheit und nun legt sie die Scheren kraftlos und anrührend zugleich vor dem Kopf zusammen?"
             },
@@ -528,7 +528,7 @@
               "point": "Auge",
               "title": "Im Inneren der Bronze",
               "firstContent": "Im Gegensatz zu den meisten Medaillen wurden einige der Kleinplastiken aus Bronze von Heide Dobberkau als Hohlguss gefertigt. Dies spart Gewicht sowie Material und erweitert zugleich gestalterische Möglichkeiten. Die Krabbe (Krebsform III) bekommt nicht zuletzt durch die unergründlichen Hohlräume eine geheimnisvolle Gestalt.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/III-3.jpg",
               "imageSubtitle": "Heide Dobberkau: Krebsform III, 1974, Nahaufnahme, Foto Johannes Eberhardt.",
               "secondContent": "Für das 3D-Modell wurde ein Innenleben konstruiert, welches die Außenhülle ins Innere der Plastik projiziert. Dies lässt noch immer Raum für Phantasie, wie es wohl in der Krabbe im Original aussehen mag. Können Sie am Original in Vitrine 8 etwas mehr erkennen? Wir verraten nur so viel: Der Titel ist Programm. "
             },
@@ -536,7 +536,7 @@
               "point": "Schere",
               "title": "Die Krabbe im Werk von Heide Dobberkau",
               "firstContent": "Auch die Zoos in Hannover, Hamburg und Köln erlauben den Besucherinnen und Besuchern, Tiere aus aller Welt mit eigenen Augen zu beobachten. Für Heide Dobberkau waren sie gerade in den frühen Jahren der thematischen Orientierung lebendige Anschauung, Modell und Vorbild. Tiere, die nicht in heimischen Wäldern, Gärten und Feldern zu finden sind, können hier live und in 3D betrachtet werden. Im tierbildnerischen Schaffen von Heide Dobberkau treffen so Tierplastiken der Ferne, wie Eisbär oder Seehund oder auf den Medaillen etwa Watussirind und Antilope, mit Tieren aus der näheren Umgebung zusammen. Alltag und eher Außeralltägliches sind aber keineswegs sauber zu trennen.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/III-4.jpg",
               "imageSubtitle": "Heide Dobberkau: Perlhuhn, 1986, K 47, Privatbesitz, Foto Wolfgang Steguweit.",
               "secondContent": "Trotz dieser heterogenen Gruppe von Tierwesen geht in der Vielfalt das Individuelle nicht unter. Vielmehr haftet jeder tierbildnerischen Arbeit Heide Dobberkaus immer auch etwas Persönliches an."
             }
@@ -558,7 +558,7 @@
               "point": "RandAkragas",
               "title": "Die Herstellung antiker Münzen",
               "firstContent": "Die meisten antiken Münzen wurden zur Herstellung geprägt. Dies geschah von Hand. Bis in die Spätantike hinein wurden die Rohlinge für die Münzprägung gegossen, später begann man, Zaine zu Blech auszubringen und aus diesem Plättchen zu schneiden oder zu stanzen. Der Schrötlingsguss konnte in Reihe geschehen, was abzutragende Gusszapfen zur Folge hat, oder auf Tüpfelplatten durch zuvor abgewogenes und in den Formen eingeschmolzenes Granulat. Letztere Methode hat den Vorteil, exakt abgewogenes Metall zu Schrötlingen zu verarbeiten, die sehr genau (al pezzo) das angestrebte Gewicht erreichen. Diese Technik macht also besonders für Münzen aus wertvollem Edelmetall, wie Gold oder Elektron, der Mischung aus Gold und Silber, Sinn. Was mögen aber die Gründe für die gegenüberliegenden Wülste auf dem Rand vieler sizilischer Münzen gewesen sein? Wurden hier zwei halbkugelartige Schrötlingshälften durch den Prägevorgang zusammengefügt? Dies wirft gegebenenfalls die Frage auf, warum man sich diese Mühe machte. Könnte diese Technik eine Ersparnis von Zeit und Energie mit sich gebracht haben?",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/IV-1.jpg",
               "imageSubtitle": "Katane, um 410 v. Chr., Silber, Tetradrachme, 17,12 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18208125\" target=\"_blank\">18206563</a>, Fotos Reinhard Saczewski.",
               "secondContent": "Ein weiteres Phänomen der Münzherstellung in der Zeit der griechischen Klassik stellen die gefalteten Schrötlinge dar. Dabei wurden durch das Umschmieden von Geldstücken (etwa anderer Städte) die Rohlinge zum Prägen neuer Münzen hergestellt."
             },
@@ -566,7 +566,7 @@
               "point": "FeldUnten",
               "title": "Numismatik in Berlin",
               "firstContent": "Im Münzkabinett der Staatlichen Museen zu Berlin – Stiftung Preußischer Kulturbesitz werden unter anderem Münzen, Medaillen, Papiergeld, vormünzliche Zahlungsmittel, Jetons und Marken, Wertpapiere aber auch eine Stempelsammlung verwahrt. Diese Materialgruppen, sowie alle Quellen die über sie Auskunft erteilen, formen den Kern des Fachgebiets der Numismatik. Das Münzkabinett in Berlin ist weltweit eine der größten Einrichtungen seiner Art.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/IV-2.jpg",
               "imageSubtitle": "Bodo Broschat: 175 Jahre Numismatische Gesellschaft zu Berlin, 2018, IKMK <a href=\"https://ikmk.smb.museum/object?id=18208125\" target=\"_blank\">18265764</a>, Fotos Elke Bannicke.",
               "secondContent": "Die <a href=\"http://www.numismatische-gesellschaft-berlin.de\" target=\"_blank\">Numismatische Gesellschaft zu Berlin e. V.</a> wurde vor über 175 Jahren gegründet und ist »die älteste numismatische Vereinigung Deutschlands und nach der Royal Numismatic Society in London (1836) sowie der Société Royale de Numismatique de Belgique in Brüssel (1841) die drittälteste numismatische Gesellschaft überhaupt. Als Auftrag hat sie sich in ihrer Satzung die ›Belehrung und Unterhaltung im Fache der Münzkunde‹ gegeben. Dazu hält sie regelmäßige Vortragsveranstaltungen ab und gibt Publikationen heraus. Sie ist ein eingetragener Verein und als gemeinnützig anerkannt. Mitglieder der Gesellschaft sind Freunde der Numismatik (Münzkunde) und Berufsnumismatiker.«"
             },
@@ -574,7 +574,7 @@
               "point": "Grat",
               "title": "Kein Kleingeld – geprägtes Silber von Akragas",
               "firstContent": "Dieses Objekt ist eine Tetradrachme, also ein Vier-Drachmen-Stück aus Silber. Sie entstand im mittleren 5. Jahrhundert v. Chr. in der Stadt Akragas auf Sizilien. Dieses Gemeinwesen in und um einer der größten und reichsten Städte der Epoche der griechischen Klassik prägte seine Münzen aus dem Edelmetall Silber mit Gewichtsstandard, der unter anderem auch von der Stadt Athen verwendet wurde. Da die Kaufkraft der Münzen vor allem durch ihren ›inneren Wert‹ gedeckt war, regelt dieses Gewichtsmaß, der Münzfuß, die Währung der sie ausgebenden Stadt.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/IV-3.jpg",
               "imageSubtitle": "Prägestempel, Wilfried Fitzenreiter: Teilnehmermedaille XII. INK, 1997, IKMK <a href=\"https://ikmk.smb.museum/object?id=18205617\" target=\"_blank\">18205617</a>, Foto Lutz-Jürgen Lübke (Lübke und Wiedemann)",
               "secondContent": "Das Silber wurde in Akragas vor allem importiert und dann ausgeprägt. Der Prägestempel der Vorderseite zur Teilnehmermedaille des XII. Internationalen Numismatischen Kongresses in Berlin 1997 wagt einen stilisierten Blick in eine imaginierte antike Münzwerkstatt."
             },
@@ -582,7 +582,7 @@
               "point": "Aufschrift",
               "title": "Ausgabeautoritäten",
               "firstContent": "Münzen sind eine Form des Geldes und ihre Bilder müssen vor allem auf die Ausgabeautorität – in diesem Fall die Stadt und ihre Bürger – schließen lassen und Vertrauen in den Metallwert vermitteln. Dass die griechischen Münzen von vielen Menschen als schön betrachtet werden, hängt mit Sehgewohnheiten aber auch mit dem Wettbewerb zusammen, in welchem die Gepräge in der antiken Welt entstanden. Medaillen, wie die handlichen Kleinreliefs von Heide Dobberkau, sind ganz für den ästhetischen Eindruck gemacht – und kein Geld – auch wenn sie einen großen Wert besitzen können.<br>Primärfunktionen der Münzen sind die Vereinfachung des Handels/Bezahlens, Speicherns und Benennens von Werten aber auch Kommunikation (Medialität). Medaillen hingegen sind münzähnliche Objekte (aber kein Geld) und fokussieren auf die mediale Funktion.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/IV-4.jpg",
               "imageSubtitle": "Akragas, ca. 409–406 v. Chr., Gold, Diobol, 1,30 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18205617\" target=\"_blank\">18226948</a>, Fotos Reinhard Saczewski.",
               "secondContent": "Die Münzen aus Akragas zeigen vorderseitig den Vogel des Zeus – den Adler – und mit der Aufschrift AKRACANTOΣ, dass die Bewohner der Stadt dieses hochwertige Silbergeld ausgegeben haben. Nur für eine kurze Zeitspanne hat die Stadt Akragas im 5. Jahrhundert v. Chr. auch Goldmünzen ausgegeben. Auf dem hier gezeigten Goldstück im Wert von zwei silbernen Doppeldrachmen (also einem Tetradrachmon) befindet sich neben dem abgekürzten Stadtnamen auch der eines ansonsten nicht weiter bekannten Magistrats: Silanos. Zu wenig ist aber bekannt über die genauen Aufgaben der und Organisationsformen um die namentlich überlieferten antiken Menschen, die mit der Ausgabe der Münzen betraut waren."
             },
@@ -590,7 +590,7 @@
               "point": "Krabbe",
               "title": "Krabbensymbolik",
               "firstContent": "Der durch den Adler angetippte Zeuskult war in Akragas besonders bedeutend. Der Herrscher der Lüfte und die Krabbe wurden aber auch als korrespondierendes Paar interpretiert. So könnte man an den Vogel als Zeichen der Herrschaft über das Land und die Krabbe als Symbol der Macht auf dem Meer interpretieren. Die wappenartige Krabbe auf der Rückseite kann aber auch als zoomorpher Flussgott Akragas gedeutet oder wie der Adler mit Zeus in Verbindung gebracht werden. Sehr überzeugend wurde die Krabbe auf den Gott Apollon und dessen Kult in der Stadt bezogen – einen Bezug zum Fluss Akragas muss dies nicht ausschließen. Auf der hier abgebildeten Bronzemünze ist der Flussgott auf der Vorderseite zu sehen, während sich Adler und Krabbe die Rückseite teilen. Die sechs Wertkugeln weisen die Scheidemünze als gleichwertig mit einer in Bezug auf den Metallgehalt viel wertvolleren halben Silberlitra aus.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/IV-5.jpg",
               "imageSubtitle": "Akragas, um 406 v. Chr., Bronze, 1/2 Litra (Hemilitra), 18,62 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18205617\" target=\"_blank\">18226324</a>, Fotos Reinhard Saczewski.",
               "secondContent": "Für welche Zahlungen benötigte man das erste Münzgeld, zur Besoldung von Soldaten, zum Tempelbau, für Stadtanlagen, Festivitäten? Helfen zur Beantwortung dieser Fragen etwa Münzbilder weiter? In einem antiken Mythos ist die Krabbe besonders häufig überliefert. Dass auf der Tetradrachme des 3D-Modells aber der Mythos des Herakles im Kampf mit der Hydra kommentiert werden sollte, ist aus dem Kontext kaum abzuleiten. Zwar wurde etwa zu der Zeit, als in Akragas die ersten Münzen geprägt wurden (ca. 510–495 v. Chr.) auch ein Bauprojekt durchgeführt, welches (ohne abschließende Klärung) als Heraklestempel interpretiert wurde, doch erlaubt auch der Inhalt des Mythos wohl kaum eine sinnvolle Verbindung dieser beiden Befunde. Dem Halbgott wurde von Hera im Kampf gegen die Hydra die Riesenkrabbe Karkinos gesandt. Dies geschah keineswegs, um den Helden zu helfen, sondern im Gegenteil dem vielköpfigen Ungeheuer. Allein, der Plan ging nicht auf, Herakles zertrat das Krustentier, das immerhin zur Belohnung durch Hera als Sternzeichen an das Firmament geheftet wurde und seitdem in reinstem Licht am Himmel leuchten darf. "
             },
@@ -598,7 +598,7 @@
               "point": "Feder",
               "title": "Die Adlerdebatte",
               "firstContent": "Seeadler oder Steinadler – das war hier die Frage. Tierdarstellungen auf antiken Münzen sind teils besonders realitätsnacheifernd. Sie erzielen damit Wirkungen und Erwartungshaltungen. In der numismatischen Forschung gilt der Seeadler zur Bestimmung des Vorderseitenmotivs als gut belegbar. Die Federzeichnung, der hockende gedrungen wirkende Vogel mit den relativ kurzen Schwanzfedern, die Befiederung über den Fängen – all dies passt einfach sehr gut zu den heutzutage viel weiter nördlich verbreiteten Seeadlern. Wie sah dessen Verbreitungsgebiet in der Antike aus? Viel wichtiger ist aber: Waren diese Fragen für die Menschen des alten Akragas überhaupt von Bedeutung? Auf späteren Tetradrachmen scheinen die Adler auf felsigem Untergrund (gerade mit einem erlegten Hasen beschäftigt) nicht weniger als Seeadler identifizierbar. Immerhin schildert auch Aristoteles später, dass diese Vögel fast alles fressen, was ihnen in die Fänge gerät.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/IV-6.jpg",
               "imageSubtitle": "Akragas, um 413–411 v. Chr., Silber, Tetradrachme, 16,76 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18205617\" target=\"_blank\">18200112</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Ob Haliaeetus albicilla oder Aquila chrysaetos – gerade Fragen der Gestaltung des Münzrunds sind sicherlich mit zu bedenken, wenn es um die Darstellung auch der Greifvögel auf antiken Münzen geht. Immerhin muss der zur Verfügung stehende Platz so ausgenutzt werden, dass die gewünschte Wirkung erzielt wird."
             },
@@ -606,7 +606,7 @@
               "point": "Adler",
               "title": "Adlersymbolik",
               "firstContent": "Der Adler symbolisiert Zeus. Er ist dessen Tier und ein Symbol der Macht, ähnlich wie der Löwe für Apollon oder Helios. Im Ganymed-Mythos, als Dieb der nachwachsenden Leber des Prometheus, oder etwa als Blitzbündelträger – der Adler hat viele Auftritte im Repertoire der griechischen Mythen. Gerade die Symbolik des Adlers mit Blitzbündel findet sich bis in die Neuzeit auf Münzen. Aber auch weitere Mythen wurden nach der Antike etwa auf Medaillen weiter tradiert.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/IV-7.jpg",
               "imageSubtitle": "Preußen: Friedrich I., 1712, Gold, 2 Dukaten, 6,91 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18203861\" target=\"_blank\">18203861</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Wie einzelne antike Betrachter das Tier aufzufassen verstanden, welche Geschichten und Gedanken sie zu den uns überlieferten Geschichten und Kontexten hinausgehend haben mit einflechten können, dazu bieten knapp 2.500 Jahre Objektgeschichte einen Teppich, auf dem die Fantasie blühen darf."
             }
@@ -628,7 +628,7 @@
               "point": "Schildkroetenkopf",
               "title": "Sprichwörtliches Geld!",
               "firstContent": "Die <em>chelonai</em> (Schildkröten) von Aigina waren die Münzen einer der wichtigsten Währungen der am Übergang von der griechischen Archaik zur Klassik. Die Stadt auf der gleichnamigen Insel begann in der Mitte des 6. Jahrhunderts v. Chr. mit der Ausmünzung ihrer Statere (Didrachmen zu insgesamt zwölf Obolen).",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/V-1.jpg",
               "imageSubtitle": "Aigina, ca. 560–540 v. Chr., Silber, Stater, 11,62 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18203105\" target=\"_blank\">18203105</a>, Fotos Dirk Sonnenwald.",
               "secondContent": "Auf den frühen Münzen von Aigina ist eine Seeschildkröte zu sehen, was philologisch hergeleitet, aber auch als Symbol für eine Nymphe, einen lokalen Aphroditekult oder die Handelsherrschaft Aiginas auf dem Seeweg gedeutet wurde. Später, nach dem Sieg der Athener über die Insel, wechselte das Symbol und die Münzen zeigten (wie bei unserem 3D-Modell) eine Landschildkröte. Es wurde versucht, diese Änderung als politisches Symbol zu deuten und auf den Verlust der Seemacht Aiginas zu beziehen. Wappenhaft mutet die Aufsicht der Schildkröten auf den Münzen an. Sehr plastisch gearbeitet, sind die Tiere vor allem eines: ein großer Panzer mit kleinen Gliedmaßen und einem kleinen Kopf. Heide Dobberkaus Schildkröte ist in Bewegung, ihr Kopf neugierig ausgestreckt und das ganze Tier im Begriff, sich zu bewegen. Die <em>Bronzen wie Tiere</em> sind keine (wenn auch noch so realitätsnacheifernd plastisch gearbeiteten) klassischen Münzbilder."
             },
@@ -636,7 +636,7 @@
               "point": "Schildkroetenpanzer",
               "title": "Hohes Relief",
               "firstContent": "Das hohe Relief auf der hier im 3D-Modell gezeigten Münze aus Aigina ergibt sich durch ein aufwändiges Herstellungsverfahren. Das Material, welches durch das vielfach untergliederte inkus eingeprägte Quadrat auf der Rückseite (<em>quadratum incusum</em>) verdrängt wurde, füllte auf der Vorderseite den Stempel. Noch immer wird die Frage unter Numismatikerinnen und Numismatikern kontrovers diskutiert, ob die Schrötlinge hierzu kalt oder erhitzt, vielleicht sogar glühend, geprägt wurden.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/V-2.jpg",
               "imageSubtitle": "Grilli, Angelo: EXPO 2015, 2015, IKMK <a href=\"https://ikmk.smb.museum/object?id=18268142\" target=\"_blank\">18268142</a>, Fotos Karsten Dahmen.",
               "secondContent": "Noch höhere Reliefs und damit stärkere Licht und Schattenwirkungen lassen sich durch Gusstechniken erzielen. Das hier gezeigte Beispiel zur EXPO 2015 in Mailand stellt dies eindrucksvoll zur Schau. Für die effiziente Publikation umfangreicher numismatischer Bestände ist die Technologie der 3D-Reproduktion noch immer zu kostenintensiv und zu aufwändig. Bei diesem und vergleichbaren Objekten würde sich die für unsere Exponate der Sonderausstellung geleistete Arbeit einer 3D-Abformung, -Modellierung und -Präsentation durchaus regelmäßig lohnen."
             },
@@ -644,7 +644,7 @@
               "point": "RandAigina",
               "title": "Sicherheitsmerkmale antiker Münzen",
               "firstContent": "Fälschungen von Münzen sind seit den frühen Prägungen aus Elektron in Kleinasien bekannt und damit so alt wie das Münzgeld selbst. Relativ dicke frühe Münzen aus Aigina waren sicherlich leichter zu fälschen als die späteren wie unser 3D-Modell. Dies liegt unter anderem an der Gestaltung der Schildkröte mit ihrem bis zur Mitte des fünften Jahrhunderts v. Chr. relativ einfach geformten Panzer. Andere Städte schufen Sicherheitsmerkmale, indem sie künstlerisch besonders hochwertige Stempel verwendeten, oder aber die Münzen sehr dünn fertigten.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/V-3.jpg",
               "imageSubtitle": "Aigina, ca. 550–500 v. Chr., Silber, Stater, 12,10 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18201024\" target=\"_blank\">18201024</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann). Diese Münze mit Prüfhieb stammt aus dem Fund von Zagazig in Ägypten.",
               "secondContent": "Nachahmungen von frühen Münzen aus Aigina sind daher nicht selten. Und auch so genannte gefütterte (beispielsweise <em>subaerate</em>) Münzen mit einem Kern (<em>anima</em>) aus Bronze und einer dünnen Silberschicht auf der Oberfläche, sind bekannt. Diese Fälschungen sind teils sehr gut gemacht, doch durch Umlauf oder Prüfhiebe konnte ›der Schildkröte Kern‹ freigelegt und die Echtheit geprüft werden. "
             },
@@ -652,7 +652,7 @@
               "point": "Inkusum01",
               "title": "Kontinuitäten",
               "firstContent": "Obwohl die Schildkröten von Aigina über Jahrhunderte emittiert wurden, änderte sich das Münzbild kaum. Aus der Seeschildkröte wurde die Landschildkröte, der Stil wurde realitätsnacheifernder, doch das incusum auf der Rückseite blieb über hundert Jahre hinweg fast unverändert. Nur die schmaler werdenden Stege lassen eine chronologische Untergliederung der Gruppen zu. In Athen, Korinth, auf Sizilien und anderswo hatte sich das künstlerisch hochwertig ausgeführte Rückseitenbild zur Zeit der Prägung der hier im 3D-Modell präsentierten Münze bereits seit einigen Generationen fest etabliert.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/V-4.jpg",
               "imageSubtitle": "Aigina, ca. 375–320 v. Chr., Silber, Stater, 12,12 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18216376\" target=\"_blank\">18216376</a>, Fotos Dirk Sonnenwald.",
               "secondContent": "Diese Kontinuitäten sind zum einen als bewusster Archaismus zu verstehen, der auf die konstante Qualität der Silbermünzen in Gewicht und Feingehalt verweisen und Vertrauen schaffen will. Zum anderen zeigt sich zugleich ein zentrales Charakteristikum der griechischen Münzprägung. Im Gegensatz zu den römischen Münzen, die gerade im ersten Jahrhundert v. und n. Chr. ihre Motive wenn auch nicht tages-, so zumindest doch jahrespolitisch wechselten und damit als gemünzte Nachrichten oder Herrschaftsmedien zirkulierten, sind die Münzbilder des klassischen Griechenland von Kontinuität geprägt. Selbst als man im vierten Jahrhundert v. Chr. in Aigina beschloss, den Stadtnamen auf Münzen anzugeben und einen Delfin auf die Rückseite aufzuprägen, blieb es bei der grundsätzlichen Gestaltung mit einem <em>quadratum incusum.</em>"
             },
@@ -660,7 +660,7 @@
               "point": "Schildkroetenbein",
               "title": "Wasser- vs. Landschildkröte",
               "firstContent": "Der Wechsel des auf der Vorderseite dargestellten Tieres auf den Münzen von Aigina wird durch ein folgenreiches Ereignis erklärt. Im Jahr 457/456 v. Chr. eroberte die antike Supermacht Athen die Insel und die Münzprägung erlebte einen innerhalb der griechischen Numismatik geradezu drastischen Übergang. Die Seeschildkröte verschwand und wurde durch eine Landschildkröte ersetzt.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/V-5.jpg",
               "imageSubtitle": "Athen, nach 467 v. Chr., Silber, Dekadrachme, 42,60 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18216376\" target=\"_blank\">18200870</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Dass dieser Motivwechsel eine historische Aussage impliziert, wurde wiederholt diskutiert. Dass aber die Landschildkröte eine besiegte See-Handels-Macht repräsentiert, ist dann wenig plausibel, wenn es die Einwohner der besiegten Stadt selbst waren, die ihre Münzmotive wählen konnten. Die siegreiche polis Athen wechselte ihre Münzbilder in diesen Jahrzehnten jedenfalls nicht. Münzen wie diese Dekadrachme zeigen ein variiertes Bild des sprichwörtlichen Eulenvogels. Hier ist der Steinkauz mit geöffneten Schwingen und frontal dargestellt."
             },
@@ -668,7 +668,7 @@
               "point": "Schildkroetenpanzerrand",
               "title": "Von Chelone zu Aigina",
               "firstContent": "Chelone war eine von Hermes verwandelte Jungfrau, die ihr geliebtes Haus auf dem Rücken tragen musste, nachdem sie in Ungnade gefallen war. Zuvor blieb sie der Hochzeit von Hera und Zeus fern, was den Zorn der Götter weckte. Die Nymphe Aigina wiederum wurde von Zeus in der Gestalt eines Adlers entführt.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/V-6.jpg",
               "imageSubtitle": "Elis, Silber, ca. 452–432 v. Chr., Stater, 12,03 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18229090\" target=\"_blank\">18229090</a>, Fotos Reinhard Saczewski.",
               "secondContent": "Im Münzfuß von Aigina geprägt zeigt dieser Stater aus Elis einen Adler, der die Schildkröte in den Fängen davonträgt. Bereits in der Antike ließ sich beobachten, wie Adler Schildkröten in luftige Höhen tragen, um sie dann etwa auf Felsen fallen zu lassen. So konnten sie den harten Panzer brechen. Diese Nutzung eines Felsens als Werkzeug setzt ein hohes Maß an Intelligenz voraus."
             },
@@ -676,7 +676,7 @@
               "point": "Inkusum02",
               "title": "Erinnerungen an die Geburt der Münze",
               "firstContent": "Das <em>quadratum incusum</em>, das mehrfach unterteilte vertiefte Quadrat auf der Rückseite der Münze, erinnert noch im vierten Jahrhundert v. Chr. an die Geburt der Münze im Kleinasien des siebten Jahrhunderts v. Chr.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/V-7.jpg",
               "imageSubtitle": "Elektron, ca. 650–600 v. Chr., 1/3 Stater (Trite), 4,62 g, IKMK <a href=\"https://ikmk.smb.museum/object?id=18202879\" target=\"_blank\">18202879</a>, Fotos Reinhard Saczewski.",
               "secondContent": "Sollten die <em>incusa</em> durch Punzen entstanden sein, die den Schrötling beim Prägen fixieren, wäre das Vorderseitenmotiv hier wohl sehr wichtig genommen worden. Vielleicht waren die <em>incusa</em> aber auch das wichtigere Motiv, da hierdurch (dann offenbar für viele Nutzer transparent genug) das Innere des Materials offengelegt wurde und durch Form sowie Anordnung der <em>incusa</em> das Nominal verdeutlicht wurde. Fälschungen hat diese Technik dennoch nicht völlig verhindern können. Fortan wurden sie zur Tradition, dann teils gefüllt mit Motiven, und vergrößerten sich schließlich an den meisten Orten der antiken Welt zum Rückseitenstempel."
             }
@@ -698,7 +698,7 @@
               "point": "Loch",
               "title": "Stilfindung",
               "firstContent": "Bildhauer des 20. Jahrhunderts suchten eine stärker abstrahierende Formensprache auch auf die Darstellung von Tieren zu übertragen, etwa Ewald Mataré, Gerhard Marcks oder Edwin Scharff. Daneben gab es – genannt seien die Berliner August Gaul und Renée Sintenis (siehe Abbildung) – immer auch das Bemühen, mit realistischer Darstellungskraft die bronzenen Tiergestalten zum Leben zu erwecken und die entwickelte Formensprache nicht den ›Ismen‹ der Kunst zu unterwerfen. Zu dieser zweiten Gruppe kann auch Heide Dobberkau gezählt werden. In Reflexionen über ihre Arbeit aus dem Jahr 1984 beschreibt die Künstlerin einen Prozess, der sich in ihren Arbeiten direkt ablesen lässt:",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/VI-1.jpg",
               "imageSubtitle": "Renée Sintenis: XIV. Internationale Filmfestspiele Berlin, 1964, Bronze, Rückseite mit Aufschrift, IKMK <a href=\"https://ikmk.smb.museum/object?id=18269566\" target=\"_blank\">18269566</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "»Nach Verlassen der Akademie habe ich zunächst zunehmend abstrahiert und wollte vereinfachen und Zeichen finden für Menschen, Pferde, Hunde, Vögel – selbstverständlich beeinflusst durch die Kunst der 50er Jahre. Aber nach einigen Jahren führte mich diese Abstraktion in eine Sackgasse und der für mich mögliche Weg schien mir, das sensible, lebendige Wesen der Tiere plastisch umzusetzen.«"
             },
@@ -706,7 +706,7 @@
               "point": "Kopf",
               "title": "Die eigene stilistische Stimme",
               "firstContent": "Die frühen Werke von Heide Dobberkau sind mühelos als solche zu erkennen. Der sich deutlich abhebende Grad der Abstraktion mit seinen weichen, fließenden Formen erinnert an verschiedene Vorbilder und geht doch bereits eigene Wege. Dass in der Suche nach abstrahierenden Formen nicht die Lösung für die künstlerische Umsetzung im Sinne von Heide Dobberkau lag, macht der Blick auf die Schaffenszeit ab den mittleren 1960er Jahren deutlich.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/VI-2.jpg",
               "imageSubtitle": "Schwan, um 1950, Birnbaum, Kat. K 3 (Privatbesitz). Entstanden in der Bildhauerklasse von Prof. Hermann Scheuernstuhl, Hannover. Foto Wolfgang Steguweit.",
               "secondContent": "Spätestens in den besonders produktiven drei Jahrzehnten zwischen 1962 und 1992 besitzen die Arbeiten von Heide Dobberkau den für sie so typischen Stil. Nach der geglückten Wegsuche erlaubt die unbeschwerte Formsprache einen differenzierten Blick auf die Tierwesen und regt dabei das Nachdenken auf die dahinterliegenden individuellen Erfahrungen und Geschichten an. Die skizzierte Stilfindung geschah nicht plötzlich, doch erlaubt eine Gegenüberstellung der frühen und ›klassischen‹ Dobberkauwerke eine sichere Zu- und Einordnung, nicht nur der Bronzen wie Tiere."
             },
@@ -714,7 +714,7 @@
               "point": "UebergangBeinPanzerVorn",
               "title": "Die Tierwesen von Heide Dobberkau",
               "firstContent": "Heide Dobberkau zeigt Tiere als Wesen, die fühlen und sozial interagieren. Von den hier als 3D-Modelle präsentierten Werken zeigt sich die Interaktion vor allem im ›Großen Pferderelief‹. Dabei war unsere Künstlerin selbstverständlich nicht die erste Medailleurin, die sensible Tierwesen gestaltete.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/VI-3.jpg",
               "imageSubtitle": "Antonio Pisano, gen. Pisanello: Vittorio da Feltre, 1446, Bronze, IKMK <a href=\"https://ikmk.smb.museum/object?id=18200141\" target=\"_blank\">18200141</a>, Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Für die Kunstmedaille etablierten sich seit der Renaissance auch Tiere als zentrale Motive. Sie symbolisieren oftmals antiken mythischen Stoff, oder sind, wie auf dieser Medaille von Antonio Pisano ein allegorisches Symbol (hier für den Opfertod und damit die Liebe Jesu Christi). Mannigfaltige Beispiele für sozial interagierend oder mitfühlend dargestellte Tierwesen auf Münzen und Medaillen ließen sich durch die Jahrhunderte aufzeigen. Auch die Kunstmedaille der Gegenwart bereichert die traditionellen und neuen Motive durch innovative Zugänge."
             },
@@ -722,7 +722,7 @@
               "point": "Hinterteil",
               "title": "Anregung für Ausstellungsbesuch",
               "firstContent": "Finden Sie die Objekte dieser Webanwendung alle in der <a href=\"https://ikmk.smb.museum/rundgang/index.php?lang=de\" target=\"_blank\">Ausstellung</a>? Manche sind in der Dauerausstellung zu sehen und wieder andere im Sonderausstellungraum. Finden sie die Objekte, die nicht ausgestellt sind? Der Interaktive Katalog des Münzkabinetts hilft ihnen bei der Verortung unserer Bestände und die gesetzten Hyperlinks führen direkt zu den entsprechenden Einträgen.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/VI-4.jpg",
               "imageSubtitle": "Screenshot <a href=\"https://ikmk.smb.museum/home?lang=de\" target=\"_blank\">IKMK</a>, Johannes Eberhardt.",
               "secondContent": "Das Münzkabinett präsentiert in seinen Dauerausstellungen im Bode-Museum sowie im Alten Museum auf der Museumsinsel in Berlin Tausende von Originalobjekten und dennoch kaum ein Prozent seiner Sammlungsbestände. Über 36.000 numismatische Objekte wurden bereits im Interaktiven Katalog veröffentlicht."
             },
@@ -730,7 +730,7 @@
               "point": "FussHinten",
               "title": "Die Sonderausstellung »Bronzen wie Tiere«",
               "firstContent": "Am 21. November 2019 eröffnete das Münzkabinett im Bode-Museum der Staatlichen Museen zu Berlin eine neue Sonderausstellung. Unter dem Titel <a href=\"https://www.museumsportal-berlin.de/de/ausstellungen/bronzen-wie-tiere\" target=\"_blank\">»Bronzen wie Tiere. Heide Dobberkau und ihre Tierwelten«</a> wird der Frage nachgegangen: Was macht die Tiermedaillen von Heide Dobberkau zu Kunstwerken, die wiederholt als im besten Sinne schön – populär – relevant und berührend sensibel beschrieben wurden?",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/VI-5.jpg",
               "imageSubtitle": "Bronzen wie Tiere. Heide Dobberkau und ihre Tierwelten.",
               "secondContent": "Die Ausstellung ist viergeteilt: Die Vitrinen 2–3 behandeln Stilfindung und Grundfragen der gestalterischen Arbeit. In den Vitrinen 4–6 werden schlaglichtartig chronologisch-inhaltliche Rahmungen der Tierdarstellungen erkundet aber auch weiterführende Perspektiven eröffnet. Vitrine 8 greift die Frage nach Funktionen von Tierdarstellungen auf antiken Münzen auf. Die Vitrinen 7 und 9–14 streifen ausgewählte Akzente im Werk von Heide Dobberkau, deren Tierwesen nicht vordergründig in direkten Bezug zur Welt der Menschen gesetzt werden, sondern sich vor allem als soziale und fühlende Kreaturen zeigen."
             },
@@ -738,7 +738,7 @@
               "point": "UebergangHalsPanzer",
               "title": "Tiermedaillen – Jahresthema 2019: Beiträge aus dem Berliner Medailleurkreis",
               "firstContent": "Was ist eine Tiermedaille? Diese Frage stellte sich der Berliner Medailleurkreis, als das Jahresthema zur Sonderausstellung zur Auswahl stand. Die in der Sonderausstellung gezeigten Medaillen sind eine Auswahl aus den durch die Künstlerinnen und Künstler des Medailleurkreises und der <a href=\"http://www.medaillenkunst.de\" target=\"_blank\">DGMK</a> eingereichten Beiträgen. Der Vorschlag des Jahresthemas rannte weit offen stehende Türen ein. Die Mitglieder des Medailleurkreises und der DGMK konnten – auch über das Medium der Medaille weit hinaus – zu vielfältigen Gelegenheiten, Erfahrungen mit der künstlerischen Umsetzung von Tiermotiven sammeln. Dabei entstanden Arbeiten, die international ausgestellt und publiziert wurden und die Bestände des Münzkabinetts teils seit Jahrzehnten ergänzen. Für ihre Beiträge griffen manche der Bildhauerinnen und Bildhauer auf bereits bestehende Arbeiten zurück. Es entstanden aber auch neue Medaillen, die durch das Jahresthema angestoßen wurden.",
-              "image": "img/placeholder800x600.jpg",
+              "image": "../img/VI-6.jpg",
               "imageSubtitle": "Heinz Hoyer: (S)TIERKAMPF, 2019, farbige Gipse der Vs. und Rs. (Privatbesitz), Fotos Lutz-Jürgen Lübke (Lübke und Wiedemann).",
               "secondContent": "Die besondere Herausforderung für die Werkauswahl zur Sonderausstellung Bronzen wie Tiere lag in der Positionierung zum Begriff der Tiermedaille und zum Werk der geehrten Künstlerin. Während manche Arbeiten Tiere bis hin zur porträthaften Gestaltung in den Mittelpunkt der Darstellung rücken, präsentieren andere Tiermedaillen mehr Kontext und fokussieren auf das Verhältnis zum Menschen. Andere Medaillen zeigen gar keine Tiere, sondern etwa Fabelwesen. Die Medaillen spiegeln das Verhältnis von Tier, Umwelt und Mensch. Sie nehmen auch die Betrachtenden in den Blick und beziehen sie ein."
             }
