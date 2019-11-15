@@ -30,7 +30,7 @@
               <p v-html="slide.firstContent"></p>
               <v-img
                 :src="slide.image"
-                aspect-ratio="1.3"
+                max-width="800px"
                 class="grey lighten-2 card__image"
               />
               <p v-html="slide.imageSubtitle"></p>
