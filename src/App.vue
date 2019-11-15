@@ -2,9 +2,11 @@
   <div id="app" @click="installApp">
     <v-app v-if="loaded">
       <div id="nav">
-        <router-link class="nav__item-home" to="/" exact>{{content.menu.home.toUpperCase()}}</router-link>
+        <router-link class="nav__item-home" to="/" exact>{{
+          content.menu.home.toUpperCase()
+        }}</router-link>
         <router-link class="nav__item-model" to="/model">
-          <div>{{content.menu.objects.toUpperCase()}}</div>
+          <div>{{ content.menu.objects.toUpperCase() }}</div>
         </router-link>
         <v-spacer style="width: 100%"></v-spacer>
         <div class="nav__dropdown">
@@ -20,7 +22,7 @@
           ></v-select>
         </div>
       </div>
-      <router-view class="content" :content="content"/>
+      <router-view class="content" :content="content" />
     </v-app>
   </div>
 </template>
@@ -50,14 +52,11 @@ export default {
     return {
       navigationLanguageItems: [
         {
-          language: "English"
-        },
-        {
           language: "Deutsch"
         }
       ],
       loaded: false,
-      selectedLanguageItem: { language: "English" },
+      selectedLanguageItem: { language: "Deutsch" },
       config: this.$store.getters.getConfig,
       config2: this.$store.getters.getConfig2,
       content:
@@ -133,7 +132,6 @@ export default {
 };
 </script>
 
-
 <style lang="scss">
 /* GLOBAL CSS */
 
@@ -184,7 +182,7 @@ body {
   top: 0;
   padding-left: 5vw;
   padding-right: 5vw;
-  background: #259890;
+  background: #016f61;
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.05), 0 2px 4px 0 rgba(0, 0, 0, 0.1);
   line-height: 14px;
   z-index: 100;
@@ -214,7 +212,7 @@ body {
           padding: 2px 4px;
           border-radius: 4px;
           background-color: #fff;
-          color: #333;
+          color: #016f61;
         }
       }
     }
