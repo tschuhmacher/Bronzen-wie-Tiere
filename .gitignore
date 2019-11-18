@@ -3,6 +3,7 @@ node_modules/
 dist/
 /public_local/
 /public_web/
+/mk-pwa/
 /pwa/
 /pwa_web/
 /pwa_pi/
