@@ -35,6 +35,7 @@
               />
               <p v-html="slide.imageSubtitle"></p>
               <p v-html="slide.secondContent"></p>
+              <div class="overflowSpacer"></div>
             </div>
 
             <div v-if="!isExpanded">
@@ -345,13 +346,16 @@ header {
 
 /* expanded content wrapper to allow scroll if the text reach over 70% of the viewport height */
 .content-expanded {
-  max-height: 70vh;
-  overflow-y: scroll;
-  /* additional margin for the last content item */
-  p:last-child {
-    margin-bottom: 5em;
-  }
+  max-height: 64vh;
+  padding-bottom: 1px;
+  overflow: auto;
 }
+
+/* additional margin for the last content item */
+.overflowSpacer{
+  height: 64px;
+}
+
 /* specific rules for mobile/tablet devices */
 @media (max-width: 768px) {
   /* Offset for non active slides */

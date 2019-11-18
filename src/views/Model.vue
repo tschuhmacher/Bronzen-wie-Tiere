@@ -225,13 +225,6 @@ export default {
   z-index: 8;
   p {
     margin-bottom: 0px;
-    :first-child {
-      width: 10px;
-      height: 20px;
-    }
-  }
-  h3 {
-    margin-bottom: 5px;
   }
 }
 
