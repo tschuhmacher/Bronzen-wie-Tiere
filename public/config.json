@@ -65,8 +65,8 @@
     {
       "id": 1,
       "title": "Heide Dobberkau: Owl",
-      "scene": "/models/eule.gltf",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/eule.gltf",
+      "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
@@ -127,8 +127,8 @@
     {
       "id": 2,
       "title": "Heide Dobberkau: Crayfish",
-      "scene": "/models/191113_krebs.glb",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/191113_krebs.glb",
+      "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
@@ -173,8 +173,8 @@
     {
       "id": 3,
       "title": "Akragas: Tetradrachme",
-      "scene": "/models/191113_akragas.glb",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/191113_akragas.glb",
+      "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
@@ -243,8 +243,8 @@
     {
       "id": 4,
       "title": "Aigina: Stater",
-      "scene": "/models/191114_aigina.glb",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/191114_aigina.glb",
+      "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
@@ -313,8 +313,8 @@
     {
       "id": 5,
       "title": "Heide Dobberkau: Turtle",
-      "scene": "/models/191114_schildkroete.glb",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/191114_schildkroete.glb",
+      "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
@@ -377,7 +377,7 @@
     {
       "id": 0,
       "title": "Heide Dobberkau: gr. Pferderelief I",
-      "scene": "/models/pferde.glb",
+      "scene": "../models/pferde.glb",
       "coverImage": "img/placeholder705x833.png",
       "location": "1968",
       "infoPoints": [
@@ -439,8 +439,8 @@
     {
       "id": 1,
       "title": "Heide Dobberkau: Eule",
-      "scene": "/models/eule.gltf",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/eule.gltf",
+      "coverImage": "img/placeholder705x833.png",
       "location": "1981",
       "infoPoints": [
         {
@@ -501,8 +501,8 @@
     {
       "id": 2,
       "title": "Heide Dobberkau: Krebs",
-      "scene": "/models/191113_krebs.glb",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/191113_krebs.glb",
+      "coverImage": "img/placeholder705x833.png",
       "location": "1974",
       "infoPoints": [
         {
@@ -547,8 +547,8 @@
     {
       "id": 3,
       "title": "Akragas: Tetradrachme",
-      "scene": "/models/191113_akragas.glb",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/191113_akragas.glb",
+      "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
@@ -617,8 +617,8 @@
     {
       "id": 4,
       "title": "Aigina: Stater",
-      "scene": "/models/191114_aigina.glb",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/191114_aigina.glb",
+      "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
@@ -687,8 +687,8 @@
     {
       "id": 5,
       "title": "Heide Dobberkau: Schildkröte",
-      "scene": "/models/191114_schildkroete.glb",
-      "coverImage": "/img/placeholder705x833.png",
+      "scene": "../models/191114_schildkroete.glb",
+      "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
         {
