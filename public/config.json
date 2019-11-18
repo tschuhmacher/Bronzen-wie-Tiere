@@ -3,7 +3,7 @@
     {
       "id": 0,
       "title": "Heide Dobberkau: Horses",
-      "scene": "../models/191113_pferderelief.glb",
+      "scene": "../models/pferde.glb",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -65,7 +65,7 @@
     {
       "id": 1,
       "title": "Heide Dobberkau: Owl",
-      "scene": "/models/191113_eule.glb",
+      "scene": "/models/eule.gltf",
       "coverImage": "/img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -376,8 +376,8 @@
   [
     {
       "id": 0,
-      "title": "Heide Dobberkau: großes Pferderelief I",
-      "scene": "/models/191113_pferderelief.glb",
+      "title": "Heide Dobberkau: gr. Pferderelief I",
+      "scene": "/models/pferde.glb",
       "coverImage": "img/placeholder705x833.png",
       "location": "1968",
       "infoPoints": [
@@ -439,7 +439,7 @@
     {
       "id": 1,
       "title": "Heide Dobberkau: Eule",
-      "scene": "/models/191113_eule.glb",
+      "scene": "/models/eule.gltf",
       "coverImage": "/img/placeholder705x833.png",
       "location": "1981",
       "infoPoints": [
@@ -487,7 +487,7 @@
               "secondContent": "Auch die Tierwesen von Heide Dobberkau können Mitleid erwecken, da sie als bedrohte Wesen gezeigt, oder ihnen wie den Eulen und Schwalben nur mehr Platz zum Sitzen auf einem menschengeschaffenen toten Material bleibt. Oder zeigen sie, dass die Verantwortung der Menschen für das Leben der Tiere auch konstruktiv sein kann? Die Hoffnung auf Harmonie zwischen Mensch, Tier und Natur ist eine mögliche Interpretation der Werke von Heide Dobberkau."
             },
             {
-              "point": "Rueckseite",
+              "point": "RückseiteEule",
               "title": "Die Medaille",
               "firstContent": "»Die Medaille ist von ihrem Ursprung her der Münze verwandt und ist ein Kleinrelief, das in eine zumeist runde Form eingeschrieben ist. Es gibt in der Neuzeit viele Varianten, aus diesem Rund herauszutreten, um Ovale, Rechtecke (Plaketten) oder andere verformte Grundﬂächen zum Reliefgrund zu machen. All diese Formen können der Medaille zugerechnet werden, solange diese Formen Reliefgrund sind. Eine Abgrenzung hinsichtlich der Objektgröße und des Umgangs ergibt sich aber hin zum Kleinrelief. Das Kleinrelief zum Beispiel in Form einer romanischen Elfenbeinschnitzerei ist eindeutig keine Medaille und wird deshalb auch nicht in Münzkabinetten gesammelt. Zum Wesen der Medaille gehören seine Handhabbarkeit und der gewollte Umgang in den Händen des Betrachters.« (Andreas A. Jähnig, zitiert nach Weisser, Bernhard, Deutscher Medailleurpreis 2014 für Andreas A. Jähnig (2014), in: J. Triebel – B. Weisser (Hrsg.), Deutscher Medailleurpreis 2014 (Suhl 2014) S. 4–22, hier S. 8).",
               "image": "../img/II-6.jpg",
