@@ -352,7 +352,7 @@ header {
 }
 
 /* additional margin for the last content item */
-.overflowSpacer{
+.overflowSpacer {
   height: 64px;
 }
 

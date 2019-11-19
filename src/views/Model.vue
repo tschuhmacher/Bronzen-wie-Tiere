@@ -1,10 +1,10 @@
 <template>
   <div class="model-viewer">
     <div class="model-viewer__info">
-      <h3>{{model.title}}</h3>
+      <h3>{{ model.title }}</h3>
       <p>
         <v-icon small dark>location_on</v-icon>
-        {{model.location}}
+        {{ model.location }}
       </p>
     </div>
 
@@ -16,16 +16,16 @@
       :src="model.scene"
       :backgroundAlpha="0"
       :lights="[
-					{
-							type: 'DirectionalLight',
-							position: { x: 1, y: 1, z: 1 },
-							color: 0xffffff,
-							intensity: 1
-					}
-				]"
+        {
+          type: 'DirectionalLight',
+          position: { x: 1, y: 1, z: 1 },
+          color: 0xffffff,
+          intensity: 1
+        }
+      ]"
     ></model-gltf>
 
-    <div class="loading" v-show="loading">{{progress}} %</div>
+    <div class="loading" v-show="loading">{{ progress }} %</div>
 
     <Slider
       :width="window.width"
@@ -37,11 +37,15 @@
     />
 
     <div class="model-viewer__buttons">
-      <v-btn v-if="!sliderVisible" @click="togglePoints()" fab dark color="white">
-        <v-icon color="black">{{pointsVisible ? "visibility_off" : "visibility"}}</v-icon>
+      <v-btn
+        v-if="!sliderVisible"
+        @click="togglePoints()"
+        fab dark color="white"
+      >
+        <v-icon color="black">{{ pointsVisible ? "visibility_off" : "visibility" }}</v-icon>
       </v-btn>
       <v-btn v-if="!sliderVisible" @click="resetCamera()" fab dark color="white">
-        <img class="icn-exit" :src="`${publicPath}img/exit.png`">
+        <img class="icn-exit" :src="`${publicPath}img/exit.png`" />
       </v-btn>
       <v-btn v-if="sliderVisible" @click="close()" fab dark color="white">
         <v-icon color="black">close</v-icon>
@@ -66,7 +70,7 @@ export default {
     const infoPoints = model.infoPoints;
 
     return {
-    publicPath: process.env.BASE_URL,
+      publicPath: process.env.BASE_URL,
 
       config,
       languageVersion,
