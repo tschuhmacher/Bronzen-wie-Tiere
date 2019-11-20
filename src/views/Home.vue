@@ -2,7 +2,7 @@
   <div class="home">
     <header class="custom-layout">
       <h1>{{content.title.toUpperCase()}}</h1>
-      <p>{{content.content}}</p>
+      <p v-html="content.content"></p>
       <div class="home__more">
         <router-link to="/exhibition">{{content.more}}</router-link>
       </div>

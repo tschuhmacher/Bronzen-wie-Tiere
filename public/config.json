@@ -387,10 +387,10 @@
             {
               "point": "SignaturPferde",
               "title": "Heide Dobberkau",
-              "firstContent": "Die in Bergisch-Gladbach lebende und wirkende Bildhauerin und Medailleurin <a href=\"https://de.wikipedia.org/wiki/Heide_Dobberkau\" target=\"_blank\">Heide Dobberkau</a> (geb. 1929) hat seit den 1940er Jahren frühzeitig ihre Liebe zu Tiergestaltungen gefunden und in Jahrzehnten einen eigenen Stil entwickelt.",
+              "firstContent": "Die in Bergisch-Gladbach lebende und wirkende Bildhauerin und Medailleurin Heide Dobberkau (geb. 1929) hat seit den 1940er Jahren frühzeitig ihre Liebe zu Tiergestaltungen gefunden und in Jahrzehnten einen eigenen Stil entwickelt.",
               "image": "../img/I-1.jpg",
               "imageSubtitle": "Heide Dobberkau vor ihrer Skulptur ›Esel‹, 2018. ©Wolfgang Steguweit.",
-              "secondContent": "In den Jahren ihrer Ausbildung, zunächst als Schülerin von Prof. Hermann Scheuernstuhl in Hannover und später von Prof. Edwin Scharff in Hamburg, wurde sie zu einer Akteurin im Kunstbetrieb der noch jungen Bundesrepublik. Ihren eigenen Stil entwickelte sie dabei mit einer Leichtigkeit, die sich in ihren Bronzen wie Tieren niederschlägt."
+              "secondContent": "In den Jahren ihrer Ausbildung, zunächst als Schülerin von Prof. Hermann Scheuernstuhl in Hannover und später von Prof. Edwin Scharff in Hamburg, wurde <a href=\"https://de.wikipedia.org/wiki/Heide_Dobberkau\" target=\"_blank\">Heide Dobberkau</a> zu einer Akteurin im Kunstbetrieb der noch jungen Bundesrepublik. Ihren eigenen Stil entwickelte sie dabei mit einer Leichtigkeit, die sich in ihren Bronzen wie Tieren niederschlägt."
             },
             {
               "point": "FeineLinien",
@@ -549,7 +549,7 @@
       "title": "Akragas: Tetradrachme",
       "scene": "../models/akragas.gltf",
       "coverImage": "img/placeholder705x833.png",
-      "location": "Münzkabinett",
+      "location": "ca. 460–450 v. Chr.",
       "infoPoints": [
         {
           "groupName": "All",
@@ -619,7 +619,7 @@
       "title": "Aigina: Stater",
       "scene": "../models/aigina.gltf",
       "coverImage": "img/placeholder705x833.png",
-      "location": "Münzkabinett",
+      "location": "ca. 4. Jh. v. Chr.",
       "infoPoints": [
         {
           "groupName": "All",

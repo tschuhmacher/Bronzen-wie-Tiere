@@ -3,7 +3,6 @@
     <div class="model-viewer__info">
       <h3>{{ model.title }}</h3>
       <p>
-        <v-icon small dark>location_on</v-icon>
         {{ model.location }}
       </p>
     </div>
