@@ -127,7 +127,7 @@
     {
       "id": 2,
       "title": "Heide Dobberkau: Crayfish",
-      "scene": "../models/191113_krebs.glb",
+      "scene": "../models/krebs.gltf",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -173,7 +173,7 @@
     {
       "id": 3,
       "title": "Akragas: Tetradrachme",
-      "scene": "../models/191113_akragas.glb",
+      "scene": "../models/akragas.gltf",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -243,7 +243,7 @@
     {
       "id": 4,
       "title": "Aigina: Stater",
-      "scene": "../models/191114_aigina.glb",
+      "scene": "../models/aigina.gltf",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -313,7 +313,7 @@
     {
       "id": 5,
       "title": "Heide Dobberkau: Turtle",
-      "scene": "../models/191114_schildkroete.glb",
+      "scene": "../models/schildkroete.gltf",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -501,7 +501,7 @@
     {
       "id": 2,
       "title": "Heide Dobberkau: Krebs",
-      "scene": "../models/191113_krebs.glb",
+      "scene": "../models/krebs.gltf",
       "coverImage": "img/placeholder705x833.png",
       "location": "1974",
       "infoPoints": [
@@ -547,7 +547,7 @@
     {
       "id": 3,
       "title": "Akragas: Tetradrachme",
-      "scene": "../models/191113_akragas.glb",
+      "scene": "../models/akragas.gltf",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -617,7 +617,7 @@
     {
       "id": 4,
       "title": "Aigina: Stater",
-      "scene": "../models/191114_aigina.glb",
+      "scene": "../models/aigina.gltf",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
@@ -687,7 +687,7 @@
     {
       "id": 5,
       "title": "Heide Dobberkau: Schildkröte",
-      "scene": "../models/191114_schildkroete.glb",
+      "scene": "../models/schildkroete.gltf",
       "coverImage": "img/placeholder705x833.png",
       "location": "Münzkabinett",
       "infoPoints": [
