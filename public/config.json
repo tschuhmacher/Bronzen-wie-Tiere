@@ -378,7 +378,7 @@
       "id": 0,
       "title": "Heide Dobberkau: gr. Pferderelief I",
       "scene": "../models/pferde.glb",
-      "coverImage": "img/placeholder705x833.png",
+      "coverImage": "img/titel_pferde.jpg",
       "location": "1968",
       "infoPoints": [
         {
@@ -440,7 +440,7 @@
       "id": 1,
       "title": "Heide Dobberkau: Eule",
       "scene": "../models/eule.gltf",
-      "coverImage": "img/placeholder705x833.png",
+      "coverImage": "img/titel_eule.jpg",
       "location": "1981",
       "infoPoints": [
         {
@@ -502,7 +502,7 @@
       "id": 2,
       "title": "Heide Dobberkau: Krebs",
       "scene": "../models/krebs.gltf",
-      "coverImage": "img/placeholder705x833.png",
+      "coverImage": "img/titel_krebs.jpg",
       "location": "1974",
       "infoPoints": [
         {
@@ -548,7 +548,7 @@
       "id": 3,
       "title": "Akragas: Tetradrachme",
       "scene": "../models/akragas.gltf",
-      "coverImage": "img/placeholder705x833.png",
+      "coverImage": "img/titel_akragas.jpg",
       "location": "ca. 460–450 v. Chr.",
       "infoPoints": [
         {
@@ -618,7 +618,7 @@
       "id": 4,
       "title": "Aigina: Stater",
       "scene": "../models/aigina.gltf",
-      "coverImage": "img/placeholder705x833.png",
+      "coverImage": "img/titel_aigina.jpg",
       "location": "ca. 4. Jh. v. Chr.",
       "infoPoints": [
         {
@@ -688,8 +688,8 @@
       "id": 5,
       "title": "Heide Dobberkau: Schildkröte",
       "scene": "../models/schildkroete.gltf",
-      "coverImage": "img/placeholder705x833.png",
-      "location": "Münzkabinett",
+      "coverImage": "img/titel_schildkroete.jpg",
+      "location": "1973",
       "infoPoints": [
         {
           "groupName": "All",
