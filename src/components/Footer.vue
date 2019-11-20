@@ -9,9 +9,9 @@
     </div>
     <div class="divider"/>
     <div class="footer__logos">
-      <v-img :src="`${publicPath}img/logos/SMB_Logo_PMS_SC.svg`" :contain="true" :aspect-ratio="2.5/1" class="white"/>
-      <v-img :src="`${publicPath}img/logos/museum4punkt0_blk.svg`" :contain="true" :aspect-ratio="2.5/1" class="white"/>
-      <v-img :src="`${publicPath}img/logos/BKM_Fz_2017_WebSVG_de.svg`" :contain="true" :aspect-ratio="4/3" class="white"/>
+      <v-img :src="`${publicPath}img/logos/SMB_MK_PMS_SC.svg`" :contain="true" :aspect-ratio="5/1" class="white"/>
+      <v-img :src="`${publicPath}img/logos/museum4punkt0_blk.svg`" :contain="true" :aspect-ratio="4/1" class="white"/>
+      <v-img :src="`${publicPath}img/logos/BKM_Fz_2017_WebSVG_de.svg`" :contain="true" :aspect-ratio="5/3" class="white"/>
     </div>
   </footer>
 </template>
