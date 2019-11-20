@@ -100,6 +100,7 @@ export default {
 }
 
 h2 {
+  color: #02b59e;
   font-size: 1.3em;
   z-index: 10;
 }
@@ -112,7 +113,7 @@ p {
   z-index: 10;
 }
 .divider__inner {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #02b59e;
   margin-left: 15vw;
   margin-right: 15vw;
   @media (min-width: 768px) {
