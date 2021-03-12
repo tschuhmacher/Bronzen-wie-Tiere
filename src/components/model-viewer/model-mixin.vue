@@ -1,15 +1,14 @@
 <template>
   <div style="width: 100%; height: 100%; margin: 0; border: 0; padding: 0;">
-    <canvas v-if="suportWebGL" ref="canvas" style="width: 100%; height: 100%;">
-    </canvas>
+    <canvas v-if="suportWebGL" ref="canvas" style="width: 100%; height: 100%;"></canvas>
     <div v-else>
       <slot>
         Your browser does not seem to support
         <a
           href="http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation"
           style="color:#000"
-          >WebGL</a
-        >. <br />'
+        >WebGL</a>.
+        <br>'
       </slot>
     </div>
   </div>
@@ -36,7 +35,7 @@ import {
 } from "three";
 import { getSize, getCenter } from "./util";
 import { OrbitControls } from "./controls/OrbitControls";
-import { TweenLite } from "gsap/TweenMax";
+import { TweenLite } from "gsap";
 
 const suportWebGL = (() => {
   try {
