@@ -1,6 +1,7 @@
-# Bronzen wie Tiere (in Kooperation Münzkabinett der SMB):
+# Bronzen wie Tiere
+in Kooperation Münzkabinett der SMB
 
-Heide Dobberkau und ihre Tierwelten.
+**Heide Dobberkau und ihre Tierwelten.**
 
 In der Ausstellung des Münzkabinetts begegnen Heide Dobberkaus »Bronzen wie Tiere« Tierwesen auf Münzbildern aus vier Jahrtausenden und treten mit aktuellen Tiermedaillen in Dialog.
 
